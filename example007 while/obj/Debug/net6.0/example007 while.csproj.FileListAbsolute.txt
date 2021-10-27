@@ -1,0 +1,16 @@
+C:\Users\Ljubov\Desktop\lection1\example007 while\bin\Debug\net6.0\example007 while.exe
+C:\Users\Ljubov\Desktop\lection1\example007 while\bin\Debug\net6.0\example007 while.deps.json
+C:\Users\Ljubov\Desktop\lection1\example007 while\bin\Debug\net6.0\example007 while.runtimeconfig.json
+C:\Users\Ljubov\Desktop\lection1\example007 while\bin\Debug\net6.0\example007 while.dll
+C:\Users\Ljubov\Desktop\lection1\example007 while\bin\Debug\net6.0\ref\example007 while.dll
+C:\Users\Ljubov\Desktop\lection1\example007 while\bin\Debug\net6.0\example007 while.pdb
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.GlobalUsings.g.cs
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.csproj.AssemblyReference.cache
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.AssemblyInfoInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.AssemblyInfo.cs
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.csproj.CoreCompileInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.dll
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\ref\example007 while.dll
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.pdb
+C:\Users\Ljubov\Desktop\lection1\example007 while\obj\Debug\net6.0\example007 while.genruntimeconfig.cache
