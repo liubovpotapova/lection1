@@ -1,0 +1,16 @@
+C:\Users\Ljubov\Desktop\lection1\example006java\bin\Debug\net6.0\example006java.exe
+C:\Users\Ljubov\Desktop\lection1\example006java\bin\Debug\net6.0\example006java.deps.json
+C:\Users\Ljubov\Desktop\lection1\example006java\bin\Debug\net6.0\example006java.runtimeconfig.json
+C:\Users\Ljubov\Desktop\lection1\example006java\bin\Debug\net6.0\example006java.dll
+C:\Users\Ljubov\Desktop\lection1\example006java\bin\Debug\net6.0\ref\example006java.dll
+C:\Users\Ljubov\Desktop\lection1\example006java\bin\Debug\net6.0\example006java.pdb
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.GlobalUsings.g.cs
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.csproj.AssemblyReference.cache
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.AssemblyInfoInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.AssemblyInfo.cs
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.csproj.CoreCompileInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.dll
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\ref\example006java.dll
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.pdb
+C:\Users\Ljubov\Desktop\lection1\example006java\obj\Debug\net6.0\example006java.genruntimeconfig.cache
