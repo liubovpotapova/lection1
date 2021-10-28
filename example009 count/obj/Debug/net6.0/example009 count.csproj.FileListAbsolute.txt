@@ -1,0 +1,16 @@
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.GlobalUsings.g.cs
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.csproj.AssemblyReference.cache
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.AssemblyInfoInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.AssemblyInfo.cs
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.csproj.CoreCompileInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example009 count\bin\Debug\net6.0\example009 count.exe
+C:\Users\Ljubov\Desktop\lection1\example009 count\bin\Debug\net6.0\example009 count.deps.json
+C:\Users\Ljubov\Desktop\lection1\example009 count\bin\Debug\net6.0\example009 count.runtimeconfig.json
+C:\Users\Ljubov\Desktop\lection1\example009 count\bin\Debug\net6.0\example009 count.dll
+C:\Users\Ljubov\Desktop\lection1\example009 count\bin\Debug\net6.0\ref\example009 count.dll
+C:\Users\Ljubov\Desktop\lection1\example009 count\bin\Debug\net6.0\example009 count.pdb
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.dll
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\ref\example009 count.dll
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.pdb
+C:\Users\Ljubov\Desktop\lection1\example009 count\obj\Debug\net6.0\example009 count.genruntimeconfig.cache
