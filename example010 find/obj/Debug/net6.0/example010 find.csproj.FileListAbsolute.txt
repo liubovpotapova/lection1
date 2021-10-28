@@ -1,0 +1,16 @@
+C:\Users\Ljubov\Desktop\lection1\example010 find\bin\Debug\net6.0\example010 find.exe
+C:\Users\Ljubov\Desktop\lection1\example010 find\bin\Debug\net6.0\example010 find.deps.json
+C:\Users\Ljubov\Desktop\lection1\example010 find\bin\Debug\net6.0\example010 find.runtimeconfig.json
+C:\Users\Ljubov\Desktop\lection1\example010 find\bin\Debug\net6.0\example010 find.dll
+C:\Users\Ljubov\Desktop\lection1\example010 find\bin\Debug\net6.0\ref\example010 find.dll
+C:\Users\Ljubov\Desktop\lection1\example010 find\bin\Debug\net6.0\example010 find.pdb
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.GlobalUsings.g.cs
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.csproj.AssemblyReference.cache
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.AssemblyInfoInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.AssemblyInfo.cs
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.csproj.CoreCompileInputs.cache
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.dll
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\ref\example010 find.dll
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.pdb
+C:\Users\Ljubov\Desktop\lection1\example010 find\obj\Debug\net6.0\example010 find.genruntimeconfig.cache
